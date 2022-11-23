@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is José Ignacio Cuitún Coronado, currently living in Bristol, :uk: .
+
+- :earth_americas: I am from :mexico:
+- :world_map: Español, English, Français y/and/et/und Deutsch.
 <!--
 **josephignace/josephignace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
