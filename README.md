@@ -2,7 +2,7 @@
 
 My name José Ignacio Cuitún Coronado. I am an psychologist and applied statistician currently living in :uk:.
 
-- :earth_americas: I am from :mexico:.
+- :earth_americas: I am Yucatecan :mexico:.
 - :world_map: Español, English, Français, Deutsch.
 <!--
 - Psychology, B.S. | Applied Psychology in School Psychology, M.Sc. | Statistics, PG. Dip., [Universidad Autónoma de Yucatán, UADY](https://uady.mx/) | Social Statistics, PhD [University of Manchester](https://www.manchester.ac.uk/).
