@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name José Ignacio Cuitún Coronado. I am an psychologist and applied statistician currently living in :uk:.
+My name is José Ignacio Cuitún Coronado. I am an psychologist and applied statistician currently living in :uk:.
 
 - :earth_americas: I am from :mexico:.
 - :world_map: Español, English, Français, Deutsch.
