@@ -4,9 +4,7 @@ My name is José Ignacio Cuitún Coronado. I am an psychologist and applied stat
 
 - :earth_americas: I am from :mexico:.
 - :world_map: Español, English, Français, Deutsch.
-<!--
 - Psychology, B.S. | Applied Psychology in School Psychology, M.Sc. | Statistics, PG. Dip., [Universidad Autónoma de Yucatán, UADY](https://uady.mx/) | Social Statistics, PhD [University of Manchester](https://www.manchester.ac.uk/).
--->
 - :round_pushpin: Senior Research Associate in Health Data Science and Medical Statistics at [Bristol Medical School](http://www.bristol.ac.uk/medical-school/) | [University of Bristol](https://www.bristol.ac.uk/).
 - :round_pushpin: Research Assistant at [Institute of Population Health](https://www.liverpool.ac.uk/population-health/) | [University of Liverpool](https://www.liverpool.ac.uk/).
 
