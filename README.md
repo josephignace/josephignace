@@ -43,4 +43,5 @@ Here are some ideas to get you started:
 - Links: https://github.com/tandpfun/skill-icons?ref=reactjsexample.com#icons-list
 - https://github.com/tandpfun/skill-icons#icons-list
 https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#smileys--emotion
+https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 -->
