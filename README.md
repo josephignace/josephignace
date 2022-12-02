@@ -24,6 +24,13 @@ Software skills:
   </a>
 </p>
 
+
+<!--
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=josephignace&layout=compact"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zluvsand"/>
+<img src="https://github-readme-stats.vercel.app/api?username=josephignace&show_icons=true"/>
+-->
 <!--
 [![My Skills](https://skills.thijs.gg/icons?i=r,py,vscode&theme=dark)](https://skills.thijs.gg)
 -->
@@ -44,4 +51,5 @@ Here are some ideas to get you started:
 - https://github.com/tandpfun/skill-icons#icons-list
 https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#smileys--emotion
 https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+https://towardsdatascience.com/enrich-your-github-profile-with-these-tips-272fa1eafe05
 -->
