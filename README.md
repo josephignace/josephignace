@@ -5,8 +5,11 @@ My name is José Ignacio Cuitún Coronado. I am an psychologist and applied stat
 - :earth_americas: I am from :mexico:.
 - :world_map: Español, English, Français, Deutsch.
 - Psychology, B.S. | Applied Psychology in School Psychology, M.Sc. | Statistics, PG. Dip., [Universidad Autónoma de Yucatán, UADY](https://uady.mx/) | Social Statistics, PhD, [School of Social Sciences](https://www.socialsciences.manchester.ac.uk/), [The Cathie Marsh Institute (CMI)](https://www.cmi.manchester.ac.uk/), [University of Manchester](https://www.manchester.ac.uk/).
-- :round_pushpin: Senior Research Associate in Health Data Science and Medical Statistics at [Bristol Medical School](http://www.bristol.ac.uk/medical-school/), [University of Bristol](https://www.bristol.ac.uk/).
-- :round_pushpin: Honorary Research Assistant at [Institute of Population Health](https://www.liverpool.ac.uk/population-health/), [University of Liverpool](https://www.liverpool.ac.uk/).
+- :round_pushpin: Research Fellow in Data Science / Medical Statistics at [Leeds Institute of Health Sciences](https://medicinehealth.leeds.ac.uk/leeds-institute-health-sciences), [University of Leeds](https://www.leeds.ac.uk/).
+- :round_pushpin: Research Fellow in Data Science / Medical Statistics at [Bradford Institute for Health Sciences](https://medicinehealth.leeds.ac.uk/leeds-institute-health-sciences).
+- Senior Research Associate in Health Data Science and Medical Statistics at [Bristol Medical School](http://www.bristol.ac.uk/medical-school/), [University of Bristol](https://www.bristol.ac.uk/).
+- Honorary Research Assistant at [Institute of Population Health](https://www.liverpool.ac.uk/population-health/), [University of Liverpool](https://www.liverpool.ac.uk/).
+- Research Associate at [Institute of Population Health](https://www.liverpool.ac.uk/population-health/), [University of Liverpool](https://www.liverpool.ac.uk/).
 
 Research focus and interest:
 - :anatomical_heart: Cardiovascular diseases (CVD).
